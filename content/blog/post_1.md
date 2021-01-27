@@ -1,10 +1,6 @@
 ---
 title: "How it all started"
 date: 2021-01-24
-tags: ["computer science", "angry bird", "games"]
-categories: ["computer science", "angry bird", "journey", "story"]
-description: "My passion for Information Technology"
-draft: false
 ---
 
 # Information Technology
