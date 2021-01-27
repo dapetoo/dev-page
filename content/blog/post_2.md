@@ -1,16 +1,26 @@
 ---
-title: "enim ultricies dolore metus ac eiusmod interdum"
-date: 2018-05-18
-tags: ["eu fames", "notes", "pharetra"]
-categories: ["facilisi odio", "id"]
-description: "posuere ultricies ornare ligula augue do aliquam vitae erat labore ipsum nibh"
-draft: false
+title: "Life at The Federal Polytechnic, Ilaro"
+date: 2021-01-27
+# tags: ["friends", "digital electronics", "Ilaro"]
+# categories: ["story", "my-journey"]
+# description: "Ilaro Polytechnic"
+# draft: false
 ---
 
-# non tempor mauris elementum semper
+# Deeper understanding of data structures
 
-Interdum dolor sit etiam aenean ac fermentum auctor cursus nulla tellus purus justo. Ullamcorper elit do tincidunt auctor sit leo, pulvinar scelerisque do fringilla nisi porttitor fermentum. Tellus elit mauris lobortis iaculis mus morbi nunc lacus. Velit placerat facilisis varius odio purus sociis elementum morbi. Dignissim congue nulla diam aenean mi commodo quisque egestas amet mattis posuere lobortis. Tristique laoreet mus diam tellus vestibulum scelerisque ipsum, rhoncus mollis sed consequat natoque eget sem.
+The Federal Polytechnic, Ilaro has helped me to understand more important concepts that's required to be successful in the world of IT, as a young IT professional that is learning virtually almost everything online and meetups, I don't really take learning data structures and algorithm serious, but I learnt that good software developers don't just write code that works but looks for the most effective way on how to save memory. 
 
-Potenti non mollis bolestie dui justo feugiat maecenas interdum. Magnis dolore feugiat eget ridiculus lorem laoreet netus faucibus tortor. Laoreet metus euismod labore neque tortor sapien facilisis ornare phasellus. Sed etiam erat iaculis porta suscipit donec varius quam mattis vivamus phasellus. Porta tristique consectetur aenean ultrices dignissim velit orci praesent luctus tempor quam. Leo aenean est pellentesque suscipit amet condimentum, at imperdiet etiam dictum quis volutpat sollicitudin.
+I have been able to connect with awesome people in the school community and this has helped me to grow exponentially and learnt more about different fields that are available in the IT field. I have come to learnt that IT can be use to drive any field/business in order to improve human life and the society at large.
 
-Nullam dignissim ac vel sed hendrerit tortor, aliquet nunc gravida eiusmod netus placerat aenean. Varius lacinia egestas augue sem justo suscipit mollis ultricies nulla vestibulum convallis dui. Tincidunt nisl elementum cras quisque scelerisque feugiat turpis, varius felis quam ornare eu scelerisque accimsan. Feugiat quam congue dolor ligula justo convallis a, iaculis faucibus mollis nunc nulla sem nibh. Vulputate nec adipiscing libero lorem imperdiet arcu neque quis iaculis donec bibendum. Suspendisse pharetra enim nulla penatibus madssa congue a, in urna ligula etiam vel duis rhoncus.
+I found some of the listed courses interesting because it has really helped me to have a deeper understanding of how computer works.
+
+1. Operating System: It’s hard to write good software without understanding the software that your software runs on. Just like an understanding of CPU architecture, a good knowledge of how operating systems work will make you a valuable asset to any organization. Most developers only have a cursory knowledge of how Linux operates, and if you deploy on Linux like most of the world, your expertise will be well-rewarded.
+
+2. Algorithms and Data Structures: The study of algorithms and data structures is the bread and butter of computer science. It’s fundamental that we learn about making computer programs fast so that they can delight our users and find meaningful answers quickly.
+
+    I’m in complete agreement with the traditional education system that that familiarity with common algorithms and data structures is vital to the success of any developer. Understanding these basic problem-solving skills will also benefit you in any aspect of your career and life.
+
+3. Computer Architecture and Hardware: Computer architecture is arguable the most overlooked subject among the bootcamp and self-taught developer community. It’s almost impossible to write performant and efficient software without a basic understanding of the hardware it runs on.
+
+    Computers are built of various components (hardware) including the CPU, memory, busses, clocks, and the peripheral devices you are familiar with like the mouse and keyboard. All of these components must communicate with each other and provide a necessary service to the user, but as software developers, the most important components for us to understand are memory (RAM) and the processor (CPU).
