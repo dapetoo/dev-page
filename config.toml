@@ -32,7 +32,7 @@ theme = "aafu"
         name = "Peter DADA."
 		tagline = "Android Dev|GCP Enthusiast"
 		location = "Ilaro, Ogun State"
-        photo = "profile1.jpg"
+        photo = "profile7.png"
 
     # Section for links to social websites
     [params.social]
